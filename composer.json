@@ -1,0 +1,15 @@
+{
+  "name": "ba/sorted-linked-list",
+  "type": "library",
+  "require": {
+    "php": "^8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ba\\SortedLinkedList\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.0"
+  }
+}
